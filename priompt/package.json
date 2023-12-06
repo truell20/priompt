@@ -69,7 +69,6 @@
   "dependencies": {
     "js-yaml": "https://github.com/anysphere/js-yaml.git#4761daebc257cf86e64bb775ba00696f30d7ff22",
     "openai": "^3.3.0",
-    "@anysphere/tiktoken-node": "workspace:*",
     "zod": "^3.21.4",
     "zod-to-json-schema": "^3.21.3"
   }
